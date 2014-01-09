@@ -1,0 +1,99 @@
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f539a" }, "distance" : 4, "color" : "black", "city two" : "London", "city one" : "Edinburgh", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f539b" }, "distance" : 4, "color" : "orange", "city two" : "London", "city one" : "Edinburgh", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f539c" }, "distance" : 2, "color" : "grey", "city two" : "Dieppe", "city one" : "London", "type" : "1 Loco" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f539d" }, "distance" : 2, "color" : "grey", "city two" : "Dieppe", "city one" : "London", "type" : "1 Loco" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f539e" }, "distance" : 2, "color" : "grey", "city two" : "Amsterdam", "city one" : "London", "type" : "2 Loco" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f539f" }, "distance" : 2, "color" : "orange", "city two" : "Brest", "city one" : "Dieppe", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53a0" }, "distance" : 4, "color" : "purple", "city two" : "Pamplona", "city one" : "Brest", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53a1" }, "distance" : 3, "color" : "black", "city two" : "Paris", "city one" : "Brest", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53a2" }, "distance" : 1, "color" : "purple", "city two" : "Paris", "city one" : "Dieppe", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53a3" }, "distance" : 2, "color" : "green", "city two" : "Bruxelles", "city one" : "Dieppe", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53a4" }, "distance" : 4, "color" : "green", "city two" : "Paris", "city one" : "Pamplona", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53a5" }, "distance" : 4, "color" : "blue", "city two" : "Paris", "city one" : "Pamplona", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53a6" }, "distance" : 3, "color" : "black", "city two" : "Madrid", "city one" : "Pamplona", "type" : "tunnel" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53a7" }, "distance" : 3, "color" : "white", "city two" : "Madrid", "city one" : "Pamplona", "type" : "tunnel" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53a8" }, "distance" : 2, "color" : "grey", "city two" : "Barcelona", "city one" : "Pamplona", "type" : "tunnel" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53a9" }, "distance" : 4, "color" : "red", "city two" : "Marseille", "city one" : "Pamplona", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53aa" }, "distance" : 3, "color" : "purple", "city two" : "Lisboa", "city one" : "Madrid", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53ab" }, "distance" : 3, "color" : "orange", "city two" : "Cadiz", "city one" : "Madrid", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53ac" }, "distance" : 2, "color" : "blue", "city two" : "Cadiz", "city one" : "Lisboa", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53ad" }, "distance" : 2, "color" : "yellow", "city two" : "Barcelona", "city one" : "Madrid", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53ae" }, "distance" : 4, "color" : "grey", "city two" : "Marseille", "city one" : "Barcelona", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53af" }, "distance" : 2, "color" : "yellow", "city two" : "Bruxelles", "city one" : "Paris", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53b0" }, "distance" : 2, "color" : "red", "city two" : "Bruxelles", "city one" : "Paris", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53b1" }, "distance" : 4, "color" : "grey", "city two" : "Marseille", "city one" : "Paris", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53b2" }, "distance" : 3, "color" : "grey", "city two" : "Zurich", "city one" : "Paris", "type" : "tunnel" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53b3" }, "distance" : 3, "color" : "orange", "city two" : "Zurich", "city one" : "Paris", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53b4" }, "distance" : 3, "color" : "white", "city two" : "Zurich", "city one" : "Paris", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53b5" }, "distance" : 2, "color" : "blue", "city two" : "Frankfurt", "city one" : "Bruxelles", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53b6" }, "distance" : 1, "color" : "black", "city two" : "Amsterdam", "city one" : "Bruxelles", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53b7" }, "distance" : 2, "color" : "white", "city two" : "Frankfurt", "city one" : "Amsterdam", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53b8" }, "distance" : 3, "color" : "yellow", "city two" : "Essen", "city one" : "Amsterdam", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53b9" }, "distance" : 4, "color" : "grey", "city two" : "Roma", "city one" : "Marseille", "type" : "tunnel" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53ba" }, "distance" : 2, "color" : "purple", "city two" : "Zurich", "city one" : "Marseille", "type" : "tunnel" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53bb" }, "distance" : 2, "color" : "green", "city two" : "Venezia", "city one" : "Zurich", "type" : "tunnel" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53bc" }, "distance" : 2, "color" : "yellow", "city two" : "Munchen", "city one" : "Zurich", "type" : "tunnel" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53bd" }, "distance" : 2, "color" : "purple", "city two" : "Munchen", "city one" : "Frankfurt", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53be" }, "distance" : 3, "color" : "red", "city two" : "Berlin", "city one" : "Frankfurt", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53bf" }, "distance" : 3, "color" : "black", "city two" : "Berlin", "city one" : "Frankfurt", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53c0" }, "distance" : 2, "color" : "green", "city two" : "Essen", "city one" : "Frankfurt", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53c1" }, "distance" : 2, "color" : "blue", "city two" : "Berlin", "city one" : "Essen", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53c2" }, "distance" : 3, "color" : "grey", "city two" : "Kobenhavn", "city one" : "Essen", "type" : "1 Loco" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53c3" }, "distance" : 3, "color" : "grey", "city two" : "Kobenhavn", "city one" : "Essen", "type" : "1 Loco" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53c4" }, "distance" : 4, "color" : "grey", "city two" : "Palermo", "city one" : "Roma", "type" : "1 Loco" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53c5" }, "distance" : 2, "color" : "white", "city two" : "Brindisi", "city one" : "Roma", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53c6" }, "distance" : 2, "color" : "black", "city two" : "Venezia", "city one" : "Roma", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53c7" }, "distance" : 2, "color" : "grey", "city two" : "Zagrab", "city one" : "Venezia", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53c8" }, "distance" : 2, "color" : "blue", "city two" : "Munchen", "city one" : "Venezia", "type" : "tunnel" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53c9" }, "distance" : 3, "color" : "orange", "city two" : "Wien", "city one" : "Munchen", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53ca" }, "distance" : 3, "color" : "green", "city two" : "Wien", "city one" : "Berlin", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53cb" }, "distance" : 4, "color" : "yellow", "city two" : "Warszawa", "city one" : "Berlin", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53cc" }, "distance" : 4, "color" : "purple", "city two" : "Warszawa", "city one" : "Berlin", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53cd" }, "distance" : 4, "color" : "grey", "city two" : "Danzig", "city one" : "Berlin", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53ce" }, "distance" : 3, "color" : "white", "city two" : "Stockholm", "city one" : "Kobenhavn", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53cf" }, "distance" : 3, "color" : "yellow", "city two" : "Stockholm", "city one" : "Kobenhavn", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53d0" }, "distance" : 6, "color" : "grey", "city two" : "Smyrna", "city one" : "Palermo", "type" : "2 Loco" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53d1" }, "distance" : 3, "color" : "grey", "city two" : "Brindisi", "city one" : "Palermo", "type" : "1 Loco" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53d2" }, "distance" : 4, "color" : "grey", "city two" : "Athina", "city one" : "Brindisi", "type" : "1 Loco" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53d3" }, "distance" : 3, "color" : "red", "city two" : "Sarajevo", "city one" : "Zagrab", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53d4" }, "distance" : 2, "color" : "orange", "city two" : "Budapest", "city one" : "Zagrab", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53d5" }, "distance" : 2, "color" : "grey", "city two" : "Wien", "city one" : "Zagrab", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53d6" }, "distance" : 1, "color" : "white", "city two" : "Budapest", "city one" : "Wien", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53d7" }, "distance" : 1, "color" : "red", "city two" : "Budapest", "city one" : "Wien", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53d8" }, "distance" : 4, "color" : "blue", "city two" : "Warszawa", "city one" : "Wien", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53d9" }, "distance" : 8, "color" : "grey", "city two" : "Petrograd", "city one" : "Stockholm", "type" : "1 Loco" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53da" }, "distance" : 2, "color" : "grey", "city two" : "Smyrna", "city one" : "Athina", "type" : "1 Loco" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53db" }, "distance" : 3, "color" : "purple", "city two" : "Sofia", "city one" : "Athina", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53dc" }, "distance" : 2, "color" : "grey", "city two" : "Sofia", "city one" : "Sarajevo", "type" : "tunnel" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53dd" }, "distance" : 3, "color" : "purple", "city two" : "Budapest", "city one" : "Sarajevo", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53de" }, "distance" : 4, "color" : "grey", "city two" : "Bucuresti", "city one" : "Budapest", "type" : "tunnel" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53df" }, "distance" : 6, "color" : "grey", "city two" : "Kyiv", "city one" : "Budapest", "type" : "tunnel" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53e0" }, "distance" : 4, "color" : "grey", "city two" : "Kyiv", "city one" : "Warszawa", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53e1" }, "distance" : 3, "color" : "red", "city two" : "Wilno", "city one" : "Warszawa", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53e2" }, "distance" : 2, "color" : "grey", "city two" : "Warszawa", "city one" : "Danzig", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53e3" }, "distance" : 3, "color" : "black", "city two" : "Riga", "city one" : "Danzig", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53e4" }, "distance" : 3, "color" : "blue", "city two" : "Constantinople", "city one" : "Sofia", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53e5" }, "distance" : 2, "color" : "grey", "city two" : "Bucuresti", "city one" : "Sofia", "type" : "tunnel" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53e6" }, "distance" : 4, "color" : "green", "city two" : "Wilno", "city one" : "Riga", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53e7" }, "distance" : 4, "color" : "grey", "city two" : "Petrograd", "city one" : "Riga", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53e8" }, "distance" : 3, "color" : "orange", "city two" : "Angora", "city one" : "Smyrna", "type" : "tunnel" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53e9" }, "distance" : 2, "color" : "grey", "city two" : "Constantinople", "city one" : "Smyrna", "type" : "tunnel" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53ea" }, "distance" : 2, "color" : "grey", "city two" : "Angora", "city one" : "Constantinople", "type" : "tunnel" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53eb" }, "distance" : 4, "color" : "grey", "city two" : "Sevastopol", "city one" : "Constantinople", "type" : "2 Loco" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53ec" }, "distance" : 3, "color" : "yellow", "city two" : "Constantinople", "city one" : "Bucuresti", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53ed" }, "distance" : 4, "color" : "white", "city two" : "Sevastopol", "city one" : "Bucuresti", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53ee" }, "distance" : 2, "color" : "grey", "city two" : "Kyiv", "city one" : "Wilno", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53ef" }, "distance" : 3, "color" : "yellow", "city two" : "Smolensk", "city one" : "Wilno", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53f0" }, "distance" : 4, "color" : "blue", "city two" : "Petrograd", "city one" : "Wilno", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53f1" }, "distance" : 4, "color" : "grey", "city two" : "Kharkov", "city one" : "Kyiv", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53f2" }, "distance" : 3, "color" : "red", "city two" : "Smolensk", "city one" : "Kyiv", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53f3" }, "distance" : 3, "color" : "black", "city two" : "Erzurum", "city one" : "Angora", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53f4" }, "distance" : 4, "color" : "grey", "city two" : "Erzurum", "city one" : "Sevastopol", "type" : "2 Loco" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53f5" }, "distance" : 2, "color" : "1 Loco", "city two" : "Sochi", "city one" : "Sevastopol", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53f6" }, "distance" : 4, "color" : "grey", "city two" : "Rostov", "city one" : "Sevastopol", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53f7" }, "distance" : 2, "color" : "orange", "city two" : "Moskva", "city one" : "Smolensk", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53f8" }, "distance" : 4, "color" : "white", "city two" : "Moskva", "city one" : "Petrograd", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53f9" }, "distance" : 3, "color" : "red", "city two" : "Sochi", "city one" : "Erzurum", "type" : "tunnel" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53fa" }, "distance" : 2, "color" : "grey", "city two" : "Rostov", "city one" : "Sochi", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53fb" }, "distance" : 2, "color" : "green", "city two" : "Rostov", "city one" : "Kharkov", "type" : "normal" }
+{ "_id" : { "$oid" : "52cdba1a9ce5c028307f53fc" }, "distance" : 4, "color" : "grey", "city two" : "Kharkov", "city one" : "Moskva", "type" : "normal" }
