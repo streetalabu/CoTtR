@@ -3,9 +3,6 @@
 from pymongo import MongoClient
 from Database import *
 from random import choice, sample
-from EnvironmentCard import *
-from Cities import *
-from CityConnections import *
 
 # Database variables
 link_collection = db.CityCollection
@@ -55,6 +52,10 @@ while len(city_cards) < city_count:
 
 # Combine collections into card deck
 card_deck = link_cards + city_cards
+
+# Set constants for positive/negative results
+pos = .33
+neg = .67
 
 # ----- Gameplay -----
 
